@@ -1,1 +1,1 @@
-# Ukol_OOP_Java
+# OOP Java program pro reprezentaci dotazu INSERT
