@@ -1,5 +1,7 @@
 # OOP Java program pro reprezentaci dotazu INSERT
 code:
+
+
 public class Query {
    
     public Query insert(String table){
